@@ -35,12 +35,17 @@ Help us keep things neat and tidy by following this style checklist before openi
 
 > * [my-org/my-filter](https://example.com/my-org/my-filter): An example for illustrating the Kroxylicious Community Gallery style guide. *(Tested with Kroxylicious v0.1.0)*
 
-- :white_check_mark: The entry starts with a bullet point
-- :white_check_mark: The title of the entry is the filter repository name
-- :white_check_mark: The filter repository name includes the name of the owning organization
-- :white_check_mark: The title of the entry is a link to the filter repository
-- :white_check_mark: The entry has a short description of what the filter is
-- :white_check_mark: The filter was not tested with the latest version of Kroxylicious, so the last tested Kroxylicious version is included at the end of the entry.
+:white_check_mark: The entry starts with a bullet point
+
+:white_check_mark: The title of the entry is the filter repository name
+
+:white_check_mark: The filter repository name includes the name of the owning organization
+
+:white_check_mark: The title of the entry is a link to the filter repository
+
+:white_check_mark: The entry has a short description of what the filter is
+
+:white_check_mark: The filter was not tested with the latest version of Kroxylicious, so the last tested Kroxylicious version is included at the end of the entry.
 
 ### Don't:
 
@@ -50,9 +55,14 @@ my-filter https://example.com/my-org
 
 > My Filter https://example.com/my-org
 
-- :x: The entry doesn't start with a bullet point
-- :x: The title of the entry is not the filter repository name
-- :x: The title is not a link to the repository
-- :x: The link doesn't go to the filter repository
-- :x: There is no description of the filter
-- :x: There is no indication of whether the filter has been tested against the latest Kroxylicious version
+:x: The entry doesn't start with a bullet point
+
+:x: The title of the entry is not the filter repository name
+
+:x: The title is not a link to the repository
+
+:x: The link doesn't go to the filter repository
+
+:x: There is no description of the filter
+
+:x: There is no indication of whether the filter has been tested against the latest Kroxylicious version
