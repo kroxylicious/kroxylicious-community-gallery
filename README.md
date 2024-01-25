@@ -8,4 +8,4 @@ To add your Kroxylicious filter to the gallery, please take a look at our [contr
 
 ## Community Filters
 
- * [andreaTP/kroxylicious-wasm](https://github.com/andreaTP/kroxylicious-wasm): A sample WASM filter for Kroxylicious using the Chicory runtime. *(Tested with Kroxylicious v0.3.0)*
+ * [andreaTP/kroxylicious-wasm](https://github.com/andreaTP/kroxylicious-wasm): A sample WASM filter for Kroxylicious using the Chicory runtime. *(Tested with Kroxylicious v0.4.1)*
