@@ -15,6 +15,14 @@ You can help by:
 
 To make changes to the gallery you will need to open a pull request, but that's not the only way to contribute! Opening issues and starting discussions are also great ways to help out.
 
+## DCO Signoff
+
+The project requires that all commits are signed-off, indicating that _you_ certify the changes with the [Developer Certificate of Origin (DCO)](./DCO.txt).
+
+This can be done using `git commit -s` for each commit
+in your pull request. Alternatively, to signoff a bunch of commits you can use `git rebase --signoff _your-branch_`.
+
+
 ## Gallery Style Guide
 
 When adding a new filter to the gallery there are a few details that need to be included, like the name of the filter, where it can be found, and what it does.
