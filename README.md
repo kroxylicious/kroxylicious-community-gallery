@@ -8,6 +8,6 @@ To add your Kroxylicious filter to the gallery, please take a look at our [contr
 
 ## Community Filters
 
+* [andreaTP/kroxylicious-jq](https://github.com/andreaTP/kroxylicious-jq): A filter for Kroxylicious that uses [jq](https://jqlang.org/) to transform messages. *(Tested with Kroxylicious v0.6.0)*
  * [andreaTP/kroxylicious-wasm](https://github.com/andreaTP/kroxylicious-wasm): A sample WASM filter for Kroxylicious using the [Chicory](https://github.com/dylibso/chicory) runtime. *(Tested with Kroxylicious v0.6.0)*
  * [katheris/kroxylicious-connect-filter](https://github.com/katheris/kroxylicious-connect-filter): A sample filter that observes and logs interactions between Connect workers and Kafka. *(Tested with Kroxylicious v0.6.0)*
-
